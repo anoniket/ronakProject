@@ -1,0 +1,48 @@
+.rectangle1{
+width:70px;
+  height:200px;
+  background:red;
+  display: inline-block;
+}
+.rectangle2{
+  width:70px;
+  height:200px;
+  background:blue;
+  display: inline-block;
+}
+.rectangle3{
+  width:70px;
+  height:200px;
+  background:green;
+  display: inline-block;
+}
+.rectangle4{
+  width:70px;
+  height:200px;
+  background:yellow;
+  display: inline-block;
+}
+.rectangle5{
+  width:70px;
+  height:200px;
+  background:pink;
+  display: inline-block;
+}
+.rectangle6{
+  width:70px;
+  height:200px;
+  background:green;
+  display: inline-block;
+}
+.rectangle7{
+  width:70px;
+  height:200px;
+  background:pink;
+  display: inline-block;
+}
+.rectangle8{
+  width:70px;
+  height:200px;
+  background:orange;
+  display: inline-block;
+}
